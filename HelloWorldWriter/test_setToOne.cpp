@@ -1,6 +1,6 @@
 #include <iostream>
 #include "gtest/gtest.h"
-#include "usefulheaders.h"
+#include "HelloWorldWriter.h"
 
 // The fixture for testing class Project1. From google test primer.
 class HelloWorldWriterTest : public ::testing::Test {
