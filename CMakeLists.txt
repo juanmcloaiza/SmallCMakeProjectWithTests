@@ -32,6 +32,7 @@ endif()
 # include_directories(${COMMON_INCLUDES}) in other CMakeLists.txt files.
 # set(COMMON_INCLUDES ${PROJECT_SOURCE_DIR}/include)
 add_subdirectory(HelloWorldWriter)
+add_subdirectory(RabinFingerprints)
 
 
 ################################
