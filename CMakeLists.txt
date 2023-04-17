@@ -1,4 +1,4 @@
-﻿cmake_minimum_required(VERSION 2.8)
+﻿cmake_minimum_required(VERSION 3.1)
 
 # Options. Turn on with 'cmake -Dmyvarname=ON'.
 option(test "Build all tests." ON) # Makes boolean 'test' available.
